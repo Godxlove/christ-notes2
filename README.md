@@ -81,4 +81,4 @@ Check this out: [endsems](endsems.md)
 ----
 
 ## LICENSE
-Check [License](https://github.com/InfosecGurung/christ-notes2/LICENSE)
+Check [License](https://github.com/InfosecGurung/christ-notes2/blob/main/LICENSE)
