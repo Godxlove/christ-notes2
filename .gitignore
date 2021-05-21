@@ -1,2 +1,6 @@
 # dont track changes in obsidian's trash folder
 .trash
+
+
+# dont track themes
+.obsidian/themes

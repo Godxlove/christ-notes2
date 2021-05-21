@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OperatingSystem/OS_notes/endsems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +98,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "054b8ace67e2673d",
+  "active": "ba21411073376368",
   "lastOpenFiles": [
-    "README.md",
-    "OperatingSystem/OS_notes/endsems.md"
+    "OperatingSystem/OS_notes/endsems.md",
+    "README.md"
   ]
 }
