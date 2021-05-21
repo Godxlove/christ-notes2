@@ -60,6 +60,17 @@ This is for me.
 focus on unit 1 and 2 first.
 Then move to unit 3.
 
+**Unit 1:** Set Theory and Theory of Functions
+Sets, Set Operations, Functions
+
+
+**Unit 2:** Applications of Functions and Theory of Matrices
+Sequences and Summations, Cardinality of Sets, Matrices
+
+
+**Unit 3:** Relations
+Relations and Their Properties, Equivalence Relations, Partial Orderings
+
 ---
 
 ### DS

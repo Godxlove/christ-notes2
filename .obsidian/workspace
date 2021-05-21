@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -90,6 +90,7 @@
   "active": "054b8ace67e2673d",
   "lastOpenFiles": [
     "README.md",
+    "syllabus_sem2.pdf",
     "OperatingSystem/OS_notes/endsems.md",
     "DS/DS_notes/unit5-trees/terms-in-trees.md",
     "DS/DS_notes/unit5-trees/binary-tree-types.md",
@@ -97,7 +98,6 @@
     "DS/DS_notes/unit2/strings_searchAlgo.md",
     "DS/DS_notes/unit3/handling-error.md",
     "DS/DS_notes/unit3/intro-to-linkedList.md",
-    "DS/DS_notes/unit3/linkedList-codes.md",
-    "DS/DS_notes/unit3/types-of-linkedList.md"
+    "DS/DS_notes/unit3/linkedList-codes.md"
   ]
 }
