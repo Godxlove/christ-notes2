@@ -4,28 +4,52 @@
 
 ### two 10 marks question will come from scheduling alogrithms. (unit 5)
   
-  
-Test Portions:  
+
+**Test Portions:**
 Unit-1  
 Introduction and System Structures  
 Operating System Fundamentals; Computer System organization and architecture; Operating  
 System structure and operations; Basics of process, memory and storage management and protection and security; Operating System services; User interface; System calls; System programs; Operating System structure; System boot.  
-  
+
+<br>
+
 Unit-2  
 Process Management  
 Process concept; Process scheduling; Operations on processes; Inter Process Communication;  
 Overview of Threads; Multi-threading models; Threading issues.  
- 
+
+<br>
 
 **Unit-3**   
 **Process Synchronization**  
 Need of synchronization; Critical section problems; Peterson‘s solution; Synchronization hardware; Mutex Locks; Semaphores, Classical problems of synchronization, Synchronization examples, Thread synchronization using  
 mutex and semaphore.  
-  
+
+<br>
+
 **Unit-4**   
 **CPU Scheduling**  
   
 CPU Scheduling concepts; Scheduling criteria; Scheduling algorithms; Overview of thread scheduling; Multi-processor scheduling
+
+<br>
+
+Unit 5
+Memory Management
+Swapping; Memory allocation; Segmentation; Paging, Structure of the page table
+
+<br>
+
+unit 6
+Virtual Memory
+Demand paging; Copy on Write; Page replacement; Allocation of Frames;
+Thrashing
+
+<br>
+
+
+<br>
+
 
 ---
 
@@ -64,3 +88,8 @@ interprocess communication -> message sharing, memory sharing.
 [interprocess-communication](interprocess-communication.md)
 
 semaphores
+
+---
+
+#endsems 
+the topic of **different allocation** may come as a 6 marker in the last unit.

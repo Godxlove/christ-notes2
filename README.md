@@ -46,6 +46,10 @@ Credits to [Codevault](https://www.youtube.com/channel/UC6qj_bPq6tQ6hLwOBpBQ42Q)
 
 ---
 
+**Check out the previous semesters' papers in the `sem2_1_papers` folder. **
+
+---
+
 ## What do I have to really study for end sems? (updating it)
 This is for me.
 
@@ -60,6 +64,29 @@ Then move to unit 3.
 
 ### DS
 
+**Section C**
+- prefix, postfix -stack operations
+- Binary tree traversals - inorder, preorder, postorder
+- Sorting the given data using quick/merge/selection sort. Step by step solution.
+- doubly linked list traversal
+- BST - add. delete, modify
+- Circular queue/Linked List operations
+- A complete menu based program based on struct, sorting algo, strings, pointers, sparse matrix.
+
+<br>
+
+**Section B**
+- **Majorly, algo questions have been asked.** 
+	- data structures stack, circular LL, Linked List.
+	- sorting algo
+	- searching algo
+	- BST operations
+- determining the result of recursive function calls.
+- time/space complexity
+
+<br>
+
+Section A is a mix of many units, focus on that later after section B, C.
 
 ---
 
@@ -73,10 +100,17 @@ Check this out: [endsems](OperatingSystem/OS_notes/endsems.md)
 
 ### Stats
 
+I have no idea how to go on with Stats :/
+
 ![](readme-pics/Pasted%20image%2020210521013042.png)
 
+---
+
+### English
+yet to plan.
 
 ----
 
 ## LICENSE
 Check [License](https://github.com/InfosecGurung/christ-notes2/blob/main/LICENSE)
+
