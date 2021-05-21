@@ -1,0 +1,1 @@
+[this is some good note](https://condor.depaul.edu/glancast/343class/hw/hw4ans.html) along with [this](https://condor.depaul.edu/glancast/343class/hw/hw3ans.html)
