@@ -20,11 +20,11 @@ Credits to [Codevault](https://www.youtube.com/channel/UC6qj_bPq6tQ6hLwOBpBQ42Q)
 2. Clone this repository using `git clone https://github.com/InfosecGurung/christ-notes2.git`
 3. Open Obsidian and you'll be greeted by this menu:
 
-![](Pasted%20image%2020210521014717.png)
+![](/readme-pics/Pasted%20image%2020210521014717.png)
 
 4. Press "open" and then choose the folder you cloned in step 2. The folder's name will be "christ-notes".
 5. That's it. You'll then be able to see the notes arranged under each subjects folder. Click on preview button on top right to view the final markdown look of notes (with pics). Image shared below:
-![](Pasted%20image%2020210521023142.png)
+![](readme-pics/Pasted%20image%2020210521023142.png)
 
 
 <br>
@@ -42,7 +42,7 @@ Credits to [Codevault](https://www.youtube.com/channel/UC6qj_bPq6tQ6hLwOBpBQ42Q)
 - Feedbacks are welcomed.
 - **Do not text/email me on how to use Git and Github**. That is your homework to do.
 - If you need help in exploring Obsidian, then press this help/question mark icon available in bottom left of the app.
-![](Pasted%20image%2020210521023252.png)
+![](readme-pics/Pasted%20image%2020210521023252.png)
 
 
 <br>
@@ -53,7 +53,7 @@ This is for me.
 
 ### Math
 
-![](Pasted%20image%2020210521012044.png)
+![](readme-pics/Pasted%20image%2020210521012044.png)
 
 focus on unit 1 and 2 first.
 Then move to unit 3.
@@ -75,7 +75,7 @@ Check this out: [endsems](endsems.md)
 
 ### Stats
 
-![](Pasted%20image%2020210521013042.png)
+![](readme-pics/Pasted%20image%2020210521013042.png)
 
 
 ----
