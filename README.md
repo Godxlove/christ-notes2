@@ -44,12 +44,10 @@ Credits to [Codevault](https://www.youtube.com/channel/UC6qj_bPq6tQ6hLwOBpBQ42Q)
 - If you need help in exploring Obsidian, then press this help/question mark icon available in bottom left of the app.
 ![](readme-pics/Pasted%20image%2020210521023252.png)
 
-
-<br>
-
-This is for me.
+---
 
 ## What do I have to really study for end sems? (updating it)
+This is for me.
 
 ### Math
 
