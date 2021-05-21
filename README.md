@@ -65,7 +65,7 @@ Then move to unit 3.
 
 ### OS
 
-Check this out: [endsems](endsems.md)
+Check this out: [endsems](OperatingSystem/OS_notes/endsems.md)
 
 
 

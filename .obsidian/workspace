@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "OperatingSystem/OS_notes/endsems.md",
+            "mode": "preview",
+            "backlinks": true
+          }
+        }
+      },
+      {
+        "id": "054b8ace67e2673d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "README.md",
             "mode": "source"
           }
@@ -86,8 +98,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba21411073376368",
+  "active": "054b8ace67e2673d",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "OperatingSystem/OS_notes/endsems.md"
   ]
 }
