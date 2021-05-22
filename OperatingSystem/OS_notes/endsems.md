@@ -55,17 +55,15 @@ Thrashing
 
 ## IMPORTANT STUFF
 
-storage management [storage-structure-management](storage-structure-management.md)
-
-comp system architecture  [computer-system_architecture](computer-system_architecture.md) - symmetric vs asymmetric multiprocessing - draw diagrams
-
-user to kernel mode diagram [user-kernel-mode](user-kernel-mode.md)
-what CLI is [system-interface](system-interface.md)
-system calls [system-calls](system-calls.md)
+- [ ] storage management [storage-structure-management](storage-structure-management.md)
+- [ ] comp system architecture  [computer-system_architecture](computer-system_architecture.md) - symmetric vs asymmetric multiprocessing - draw diagrams
+- [ ] user to kernel mode diagram [user-kernel-mode](user-kernel-mode.md)
+- [ ] what CLI is [system-interface](system-interface.md)
+- [ ] system calls [system-calls](system-calls.md)
 
 ---
 
-[OS-structure](OS-structure.md)
+- [ ] [OS-structure](OS-structure.md)
 simple structures - MSDOS
 monolithic - UNIX
 layered approach
@@ -73,21 +71,21 @@ microkernels
 
 ---
 
-[process-state](process-state.md)
+- [ ] [process-state](process-state.md)
 what is process state + diagram
 
 <br>
 
-explain PCB [process-control-block](process-control-block.md)
+- [ ] explain PCB [process-control-block](process-control-block.md)
 
 ---
 
-process termination - wait() - [process-termination](process-termination.md)
+- [ ] process termination - wait() - [process-termination](process-termination.md)
 
-interprocess communication -> message sharing, memory sharing.
+- [ ] interprocess communication -> message sharing, memory sharing.
 [interprocess-communication](interprocess-communication.md)
 
-semaphores
+- [ ] semaphores
 
 ---
 

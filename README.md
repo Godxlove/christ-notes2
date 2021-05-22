@@ -61,39 +61,45 @@ focus on unit 1 and 2 first.
 Then move to unit 3.
 
 **Unit 1:** Set Theory and Theory of Functions
-Sets, Set Operations, Functions
+- [ ] Sets 
+- [ ] Set Operations
+- [ ] Functions
 
 
 **Unit 2:** Applications of Functions and Theory of Matrices
-Sequences and Summations, Cardinality of Sets, Matrices
+- [ ] Sequences and Summations 
+- [ ] Cardinality of Sets
+- [ ] Matrices
 
 
 **Unit 3:** Relations
-Relations and Their Properties, Equivalence Relations, Partial Orderings
+- [ ] Relations and Their Properties
+- [ ] Equivalence Relations
+- [ ] Partial Orderings
 
 ---
 
 ### DS
 
 **Section C**
-- prefix, postfix -stack operations
-- Binary tree traversals - inorder, preorder, postorder
-- Sorting the given data using quick/merge/selection sort. Step by step solution.
-- doubly linked list traversal
-- BST - add. delete, modify
-- Circular queue/Linked List operations
-- A complete menu based program based on struct, sorting algo, strings, pointers, sparse matrix.
+- [ ] prefix, postfix -stack operations
+- [ ] Binary tree traversals - inorder, preorder, postorder
+- [ ] Sorting the given data using quick/merge/selection sort. Step by step solution.
+- [ ] doubly linked list traversal
+- [ ] BST - add. delete, modify
+- [ ] Circular queue/Linked List operations
+- [ ] A complete menu based program based on struct, sorting algo, strings, pointers, sparse matrix.
 
 <br>
 
 **Section B**
-- **Majorly, algo questions have been asked.** 
-	- data structures stack, circular LL, Linked List.
-	- sorting algo
-	- searching algo
-	- BST operations
-- determining the result of recursive function calls.
-- time/space complexity
+- [ ] **Majorly, algo questions have been asked.** 
+	- [ ] data structures stack, circular LL, Linked List.
+	- [ ] sorting algo
+	- [ ] searching algo
+	- [ ] BST operations
+- [ ] determining the result of recursive function calls.
+- [ ] time/space complexity
 
 <br>
 
@@ -104,6 +110,39 @@ Section A is a mix of many units, focus on that later after section B, C.
 ### OS
 
 Check this out: [endsems](OperatingSystem/OS_notes/endsems.md)
+
+**Section C**
+- [ ] Gantt charts - scheduling algo for CPU **this question will be there for sure**
+- [ ] Explain Scheduling algorithms/ difference between
+- [ ] Semaphores : **very important**
+	- [ ] are useful in Process Synchronization
+	- [ ] Producer consumer problem and explain the solution
+	- [ ] dining philosophers problem and explain the solution
+
+- [ ] System calls - may have to write shell scripts/define how it works in different management systems (process control, file management)
+- [ ] Explain the different directory structures in Operating Systems.
+- [ ] deadlock avoidance - algorithm to prevent it
+- [ ] Components of an OS
+- [ ] Operations on processes - fork, exec, exit, threads, et al.
+- [ ] page tables, page faults
+
+<br>
+
+**Section B**
+- [ ] Process Control Block - use/purpose
+- [ ] Inter Process Communication - 2 models
+- [ ] types of kernels
+- [ ] life cycle of a process
+- [ ] types of an OS
+- [ ] concepts of preemptive and non-preemptive scheduling
+- [ ] notes on Segmentation
+- [ ] Process Synchronization - its need
+- [ ] Peterson's solution to critical section problem
+- [ ] Interrupts
+
+B section also has a lot of points to cover and kind of overlaps section C as well.
+
+A section will have mixed types from all units, will focus on it last.
 
 
 

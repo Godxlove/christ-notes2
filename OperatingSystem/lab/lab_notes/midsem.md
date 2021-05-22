@@ -1,7 +1,6 @@
 
 # OS LAB - TEST 2 - 02.03.2021
 
-
 1. Design a C program in UNIX platform to demonstrate the following scenario: 
 
 The original process creates two children processes and then prints out “parent”. The children processes print “child1” and “child2” respectively. The “child2” process should compute Fibonacci series for a number given by the user and prints the output. Each process should print out its process id and the process id of its parent. The original process should wait until all the child process terminates. 
