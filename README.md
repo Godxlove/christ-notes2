@@ -142,6 +142,8 @@ Check this out: [endsems](OperatingSystem/OS_notes/endsems.md)
 
 B section also has a lot of points to cover and kind of overlaps section C as well.
 
+<br>
+
 A section will have mixed types from all units, will focus on it last.
 
 
@@ -153,6 +155,27 @@ A section will have mixed types from all units, will focus on it last.
 I have no idea how to go on with Stats :/
 
 ![](readme-pics/Pasted%20image%2020210521013042.png)
+
+<br>
+
+**Section C - all topics mentioned here are very important and will be in endsems**
+- [ ] Karl Pearson’s and Spearman’s rank coefficient of correlation
+- [ ] develop the equation of a regression line
+- [ ] some probability questions wrt standard deviation
+- [ ] null hypothesis - *significance level/ alpha* 
+- [ ] mean, median, mode, variance, correlation
+
+<br>
+
+**Section B**
+- [ ] confidence level - IMPORTANT (check out which unit it is)
+- [ ] PROBABILITY QUESTIONS MAX ASKED - Binomial, Poisson and normal distribution
+- [ ] obtain the correlation coefficient
+- [ ] some questions had words like "significance leve/ alpha"
+
+<br>
+
+**Section A** - asks about formulas, definitions. Will prepare in the end.
 
 ---
 

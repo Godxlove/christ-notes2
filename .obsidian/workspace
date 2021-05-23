@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5d3c7e19c2b374bb",
@@ -79,6 +78,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "73eb7fb0d1844f65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -90,14 +100,14 @@
   "active": "054b8ace67e2673d",
   "lastOpenFiles": [
     "README.md",
+    "resource-bin.md",
+    "syllabus_sem2.pdf",
+    "Untitled.md",
     "OperatingSystem/lab/lab_notes/midsem.md",
     "OperatingSystem/lab/lab_notes/lab3.md",
     "OperatingSystem/lab/lab_notes/lab4.md",
     "OperatingSystem/lab/lab_notes/lab5-daemon.md",
     "OperatingSystem/lab/lab_notes/exercise12.md",
-    "OperatingSystem/lab/lab_notes/exercise7.md",
-    "OperatingSystem/lab/lab_notes/exercise6.md",
-    "OperatingSystem/lab/lab_notes/exercise3.md",
-    "OperatingSystem/lab/lab_notes/exercise4.md"
+    "OperatingSystem/lab/lab_notes/exercise7.md"
   ]
 }

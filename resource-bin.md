@@ -1,0 +1,1 @@
+### This file will have resources I get before I place it in the notes properly.
