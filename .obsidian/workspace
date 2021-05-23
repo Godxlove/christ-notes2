@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "schedule-maybe.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "schedule-maybe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "054b8ace67e2673d",
   "lastOpenFiles": [
+    "schedule-maybe.md",
     "README.md",
     "resource-bin.md",
     "syllabus_sem2.pdf",
+    "OperatingSystem/resources.md",
+    "OperatingSystem/OS_notes/endsems.md",
     "Untitled.md",
     "OperatingSystem/lab/lab_notes/midsem.md",
     "OperatingSystem/lab/lab_notes/lab3.md",
-    "OperatingSystem/lab/lab_notes/lab4.md",
-    "OperatingSystem/lab/lab_notes/lab5-daemon.md",
-    "OperatingSystem/lab/lab_notes/exercise12.md",
-    "OperatingSystem/lab/lab_notes/exercise7.md"
+    "OperatingSystem/lab/lab_notes/lab4.md"
   ]
 }

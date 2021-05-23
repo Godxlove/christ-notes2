@@ -46,7 +46,7 @@ Credits to [Codevault](https://www.youtube.com/channel/UC6qj_bPq6tQ6hLwOBpBQ42Q)
 
 ---
 
-**Check out the previous semesters' papers in the `sem2_1_papers` folder. **
+**Check out the previous semesters' papers in the `sem2_1_papers` folder.**
 
 ---
 
@@ -118,7 +118,6 @@ Check this out: [endsems](OperatingSystem/OS_notes/endsems.md)
 	- [ ] are useful in Process Synchronization
 	- [ ] Producer consumer problem and explain the solution
 	- [ ] dining philosophers problem and explain the solution
-
 - [ ] System calls - may have to write shell scripts/define how it works in different management systems (process control, file management)
 - [ ] Explain the different directory structures in Operating Systems.
 - [ ] deadlock avoidance - algorithm to prevent it
@@ -171,7 +170,7 @@ I have no idea how to go on with Stats :/
 - [ ] confidence level - IMPORTANT (check out which unit it is)
 - [ ] PROBABILITY QUESTIONS MAX ASKED - Binomial, Poisson and normal distribution
 - [ ] obtain the correlation coefficient
-- [ ] some questions had words like "significance leve/ alpha"
+- [ ] some questions had words like "significance level/ alpha"
 
 <br>
 
