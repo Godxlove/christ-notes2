@@ -12,3 +12,11 @@ resource - [afteracademy](https://afteracademy.com/blog/what-is-burst-arrival-ex
 Throughput example -> let's say, the process P1 takes 3 seconds for execution, P2 takes 5 seconds, and P3 takes 10 seconds. So, throughput, in this case, the throughput will be (3+5+10)/3 = 18/3 = 6 seconds.
 
 In short, throughput = (total time each process takes / total number of processes)
+
+---
+
+Notes for Grantt chart questions:
+1. The I/O time won't be given, so Turnaround time = burst time  + waiting time.
+2. In a **Non-preemptive scheduling algo**, WAITING TIME = RESPONSE TIME.
+
+Follow [cpu-scheduling-algo](cpu-scheduling-algo.md) from here.

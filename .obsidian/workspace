@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schedule-maybe.md",
+            "file": "OperatingSystem/OS_notes/unit4-CPU/cpu-scheduling-algo.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249
   },
   "right": {
     "id": "5d3c7e19c2b374bb",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schedule-maybe.md",
+                "file": "OperatingSystem/OS_notes/unit4-CPU/cpu-scheduling-algo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "054b8ace67e2673d",
   "lastOpenFiles": [
-    "schedule-maybe.md",
-    "README.md",
-    "resource-bin.md",
-    "syllabus_sem2.pdf",
+    "OperatingSystem/OS_notes/unit4-CPU/cpu-scheduling-algo.md",
+    "OperatingSystem/pdf/CPU-Process-Scheduling-Solved-Problems.pdf",
+    "OperatingSystem/OS_notes/unit4-CPU/assignment-async.md",
     "OperatingSystem/resources.md",
-    "OperatingSystem/OS_notes/endsems.md",
-    "Untitled.md",
-    "OperatingSystem/lab/lab_notes/midsem.md",
-    "OperatingSystem/lab/lab_notes/lab3.md",
-    "OperatingSystem/lab/lab_notes/lab4.md"
+    "OperatingSystem/pics/assignment-answers/CPU-Scheduling-Practice-Exercises.pdf",
+    "OperatingSystem/pdf/OS_CIA3_Component 2_MCQ.pdf",
+    "OperatingSystem/pdf/Unit_5_Chapter_8_Main Memory.pptx.pdf",
+    "OperatingSystem/pdf/Unit_4_Chapter_6_CPU Scheduling.pptx.pdf",
+    "OperatingSystem/pdf/Unit_3_Chapter_5_Process Synchronization_Test Portions.pptx.pdf",
+    "OperatingSystem/pdf/Unit_2_Chapter_3_Processes.pptx.pdf"
   ]
 }
