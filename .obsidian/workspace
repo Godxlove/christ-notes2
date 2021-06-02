@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OperatingSystem/OS_notes/unit4-CPU/cpu-scheduling-algo.md",
+            "file": "schedule-maybe.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OperatingSystem/OS_notes/unit4-CPU/cpu-scheduling-algo.md",
+                "file": "schedule-maybe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "054b8ace67e2673d",
   "lastOpenFiles": [
+    "schedule-maybe.md",
     "OperatingSystem/OS_notes/unit4-CPU/cpu-scheduling-algo.md",
     "OperatingSystem/pdf/CPU-Process-Scheduling-Solved-Problems.pdf",
     "OperatingSystem/OS_notes/unit4-CPU/assignment-async.md",
@@ -107,7 +108,6 @@
     "OperatingSystem/pdf/OS_CIA3_Component 2_MCQ.pdf",
     "OperatingSystem/pdf/Unit_5_Chapter_8_Main Memory.pptx.pdf",
     "OperatingSystem/pdf/Unit_4_Chapter_6_CPU Scheduling.pptx.pdf",
-    "OperatingSystem/pdf/Unit_3_Chapter_5_Process Synchronization_Test Portions.pptx.pdf",
-    "OperatingSystem/pdf/Unit_2_Chapter_3_Processes.pptx.pdf"
+    "OperatingSystem/pdf/Unit_3_Chapter_5_Process Synchronization_Test Portions.pptx.pdf"
   ]
 }

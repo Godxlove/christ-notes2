@@ -1,4 +1,4 @@
-### From (23-31) - 05- 2021 -> total 13 topics, complete any 10 *atleast*
+### From 3-06-2021 -> 6-6-21, total 13 topics, complete any 10 *atleast*
 
 #### Stats
 - focus on completing stats section C, complete individual topics - no need to get deep with theory since only application based questions asked majorly.
@@ -29,3 +29,11 @@ Complete unit 1
 - [ ] Sets 
 - [ ] Set Operations
 - [ ] Functions
+
+
+<br>
+
+------
+
+3-6-21
+-> FCFS, SJF non-preemptive, SRTF.
