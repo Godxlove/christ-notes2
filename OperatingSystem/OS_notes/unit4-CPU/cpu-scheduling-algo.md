@@ -37,18 +37,31 @@ May ask about avg turn around time and avg waiting time.
 
 ---
 
-#### # Shortest Remaining Time First (SRTF) = SJF preemptive
-reference [video](https://youtu.be/_QcX99B-zbU) and [this](https://youtu.be/pYO-FAg-TpQ)
+#### # Shortest Remaining Time First (SRTF) = SJF preemptive - minimal time taking algo
+reference [video](https://youtu.be/_QcX99B-zbU) and [this](https://youtu.be/hoN7_VMzw_g)
+
+Whenever new a new process arrives, there may be preemption of the current running process. 
 1. it is a preemptive algo (a process executing can be interrupted in place of a more important process)
 2. assigns CPU to the process which has the least burst time (**criteria is "burst time"**) - but do check the arrival time.
-3. The arrival time matters when there are two processes having the same burst time. If both arrival and burst time as same then choose the process number order.
-4. WAITING TIME = RESPONSE TIME (non-preemptive)
+3. Check if any process is there in the ready queue at each unit of time. Since any process can overtake the current running process due to preemption (if the former has less burst time).
+4. After almost all of the processes have appeared in the grantt chart then you should put the processes as per the SJF algo method. (**important**)
+5. if burst time is same, then check the arrival time and compare it.
+6. WAITING TIME != RESPONSE TIME (preemptive algo)
 
 Columns to be made -
 process no., arrival time, burst time, completion time, turn around time, waiting time, response time
 
-May ask about avg turn around time and avg waiting time.
+Be careful while writing the completion time and response time.
+Waiting time is to be calculated based on turn around time - initial burst time.
 
+May ask about avg turn around time, avg response time and avg waiting time
+
+<br>
+
+NOTE - SRTF algo is the most optimised algo which has the lowest avg waiting time among all the cpu scheduling algo present in the world.
+<br>
+
+----
 
 
 

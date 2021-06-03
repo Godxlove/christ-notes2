@@ -4,3 +4,7 @@
 
 # dont track themes
 .obsidian/themes
+
+
+# dont track the templates
+.obsidian/templates*
